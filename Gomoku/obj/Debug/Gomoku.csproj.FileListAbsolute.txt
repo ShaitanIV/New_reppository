@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\User\source\repos\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\User\source\repos\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\User\source\repos\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\User\source\repos\Gomoku\obj\Debug\Gomoku.pdb
+D:\Downloads\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+D:\Downloads\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+D:\Downloads\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+D:\Downloads\Gomoku\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+D:\Downloads\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+D:\Downloads\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+D:\Downloads\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
